@@ -1,0 +1,2 @@
+# manipulador
+manipulador de txt
